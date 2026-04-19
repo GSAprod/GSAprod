@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 741 217">
+    <!--<rect height="217" width="741" fill="#ddffdd" />-->
+    <rect x="84" y="17" height="200" width="662" transform="skewX(-18.45)" fill="#999999" />
+    <rect x="67" y="0" height="200" width="662" transform="skewX(-18.45)" fill="#ab0000" />
+    
+    <!-- ICON -->
+    <rect x="104" y="50" height="100" width="100" fill="#aaaaaa"/>
+
+    <!-- TEXT -->
+    <rect x="242" y="50" height="100" width="370" fill="#aaaaaa"/>
+</svg>
