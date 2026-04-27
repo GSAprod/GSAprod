@@ -12,7 +12,25 @@
 
 ## 🛠️ Tech Stack
 
-TODO
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,react,vite,next,spring,d3&perline=6)](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,express,flask,postgresql,sqlite&perline=6)](https://skillicons.dev)
+
+**Mobile**
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter&perline=6)](https://skillicons.dev)
+
+**Development & Deployment**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,docker,vercel,cloudflare&perline=6)](https://skillicons.dev)
+
+**OS & Others**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,raspberrypi,bash,windows,figma,obsidian&perline=6)](https://skillicons.dev)
 
 ## 📂 Main Projects
 
