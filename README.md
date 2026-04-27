@@ -20,9 +20,9 @@
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,,,&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,docker,vercel,cloudflare&perline=6)](https://skillicons.dev) |
 
-| OS & Others                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,raspberrypi,bash,windows,figma,obsidian,,,,)](https://skillicons.dev) |
+| Operating Systems                                                                                                       | Other Frequently Used Tools                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,raspberrypi,windows,&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bash,figma,obsidian,,,&perline=6)](https://skillicons.dev) |
 
 ## 📂 Main Projects
 
