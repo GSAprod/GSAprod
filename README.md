@@ -1,4 +1,4 @@
-![Hello! I'm Gonçalo Alves](res/gif/export_compressed.gif)
+![Hello! I'm Gonçalo Alves](res/gif/banner.gif)
 
 - 🎓 Studying Computer Science @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal
 
