@@ -12,14 +12,14 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend                                                                                                                                     | Backend                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,react,vite,next,d3&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,python,express,flask,postgresql,sqlite,&perline=6)](https://skillicons.dev) |
+| Frontend                                                                                                                                                                                              | Backend                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Node.js, React, Vite, Next.js, D3.js](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,react,vite,next,d3&perline=6) | ![Java, Python, Express, Flask, PostgreSQL, SQLite](https://skillicons.dev/icons?i=java,python,express,flask,postgresql,sqlite,&perline=6) |
 
-| Mobile                                                                                                               | Development & Deployment                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,,&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,docker,vercel&perline=6)](https://skillicons.dev) |
+| Mobile                                                                                                                 | Development & Deployment                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Android Studio, Kotlin, Dart, Flutter](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,,&perline=6) | ![Git, VS Code, Visual Studio, IntelliJ IDEA, Docker, Vercel](https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,docker,vercel&perline=6) |
 
-| Operating Systems                                                                                                 | Other Frequently Used Tools                                                                             |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi,windows,,&perline=6)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=bash,figma,obsidian,,,&perline=6)](https://skillicons.dev) |
+| Operating Systems                                                                                                | Other Frequently Used Tools                                          |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![Linux, Arch, Raspberry Pi, Windows](https://skillicons.dev/icons?i=linux,arch,raspberrypi,windows,,&perline=6) | ![Bash, Figma, Obsidian, Home Assistant](./res/svg/badges_tools.svg) |
