@@ -1,6 +1,8 @@
 ![Hello! I'm Gonçalo Alves](res/gif/banner.gif)
 
-- 🎓 Studying Computer Science @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal
+- 🏢 Currently working as a Software Engineer @ [Datadog](https://datadoghq.com/)
+
+- 🎓 Studied Computer Science and Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal
 
 - 📱 Created the [Grade Calculator](https://play.google.com/store/apps/details?id=com.gsaprod.gradecalculator) mobile app, available for Android devices
 
@@ -14,7 +16,7 @@
 
 | Frontend                                                                                                                                                                                              | Backend                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Node.js, React, Vite, Next.js, D3.js](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,react,vite,next,d3&perline=6) | ![Java, Python, Express, Flask, PostgreSQL, SQLite](https://skillicons.dev/icons?i=java,python,express,flask,postgresql,sqlite,&perline=6) |
+| ![HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Node.js, React, Vite, Next.js, D3.js](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs,react,vite,next,d3&perline=6) | ![Java, Python, Go, Express, Flask, PostgreSQL, SQLite](https://skillicons.dev/icons?i=java,python,go,express,flask,postgresql,sqlite,&perline=6) |
 
 | Mobile                                                                                                                 | Development & Deployment                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
